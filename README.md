@@ -219,7 +219,7 @@ I welcome opportunities to collaborate on mechanical engineering, CAD/CAE, FEA, 
 - 🌐 **Portfolio:** [faizanpatel.site](https://www.faizanpatel.site)
 - 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/patelfaizan)
 - 📧 **Email:** patelfaizan0602@gmail.com
-- 💻 **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+- 💻 **GitHub:** [Explore my repositories](https://github.com/patelfaizan)
 
 ---
 
